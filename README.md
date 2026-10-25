@@ -141,10 +141,7 @@ On many Android devices the file goes to `/system/media/bootanimation.zip` with 
 - **Colour options.** The `desc.txt` background colour field is not read; the player background is always black.
 
 ---
-
-## Hosting it yourself
-
-The app is one HTML file, so any static host works. Free options include Netlify Drop, Cloudflare Pages and GitHub Pages. Upload `bootanimation-studio.html` (rename it to `index.html` if the host expects that).
+html` if the host expects that).
 
 ---
 
